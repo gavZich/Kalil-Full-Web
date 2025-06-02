@@ -1,0 +1,53 @@
+/* Header styling */
+.home-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.login-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.login-button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.profile-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+/* Programs section styling */
+.program-categories {
+  margin-top: 20px;
+}
+
+.category-buttons button {
+  margin-right: 10px;
+  padding: 10px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.program-list {
+  margin-top: 20px;
+}
+
+.program-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
